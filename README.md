@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://github.com/Dezbraver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dezbraver&hide_title=true&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dezbraver&hide_title=false&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezbraver&layout=compact&langs_count=7&theme=slateorange&card_width=250"/>
 </div>
 
