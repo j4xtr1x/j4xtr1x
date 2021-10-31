@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&width=900&height=90&lines=I'm+a+Technologist+and+discovered+an+innate+taste+when+dealing+with;Network+Security+and+Computer+Forensics.+I+am+24+years+old+and+intend+to;stand+out+in+these+areas.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&multiline=true&width=450&height=90&lines=%2B+Currently+I%E2%80%99m+collaborating+on;sepinf-inc%2FIPED+with+a+plugin+that;+integrates+it+with+Volatility+3.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&multiline=true&width=450&height=90&lines=%2B+Currently+I%E2%80%99m+collaborating+on;sepinf-inc%2FIPED+with+a+plugin+that;+integrates+it+with+Volatility+3)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=30&lines=%2B+Interests)](https://git.io/typing-svg)
 <br/>
