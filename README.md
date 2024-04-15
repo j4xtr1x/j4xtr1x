@@ -17,9 +17,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B+GitHub+Stats)](https://git.io/typing-svg)
 
 <div align="left">
-  <a href="https://github.com/Dezbraver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dezbraver&hide_title=false&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezbraver&layout=compact&langs_count=7&theme=slateorange&card_width=250"/>
+  <a href="https://github.com/j4xtr1x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j4xtr1x&hide_title=false&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4xtr1x&layout=compact&langs_count=7&theme=slateorange&card_width=250"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B+Tools)](https://git.io/typing-svg)
@@ -37,7 +37,5 @@
 ##
   
 <div align="center"> 
-  <a href="https://www.instagram.com/dezbraver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dezbraver@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joãopbmedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j040m3d31r0s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
