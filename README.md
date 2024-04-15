@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&size=25&vCenter=true&multiline=true&lines=HEY%2C+I'M+JO%C3%83O+MEDEIROS!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23F73131&size=25&vCenter=true&multiline=true&lines=HEY%2C+I'M+JO%C3%83O+MEDEIROS!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&size=19&pause=1000&color=FFB319&random=false&width=900&height=90&lines=Hi!+I'm+a+Technologist+and+discovered+an+innate+taste+when+dealing+with+Network+Security+and+Offensive+Security.)](https://git.io/typing-svg)
 
