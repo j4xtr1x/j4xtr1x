@@ -6,13 +6,17 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=30&lines=%2B+Interests)](https://git.io/typing-svg)
 <br/>
+&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Offensive+Cyber+Security)](https://git.io/typing-svg)
+<br/>
 &emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Pentesting)](https://git.io/typing-svg)
 <br/>
-&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Malware+Analysis)](https://git.io/typing-svg)
+&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Red+Teaming)](https://git.io/typing-svg)
 <br/>
-&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Reverse+Engineering)](https://git.io/typing-svg)
+&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Research)](https://git.io/typing-svg)
 <br/>
-&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Artificial+Intelligence)](https://git.io/typing-svg)
+&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Teaching)](https://git.io/typing-svg)
+<br/>
+&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B%2B+Awareness)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B+GitHub+Stats)](https://git.io/typing-svg)
 
@@ -21,18 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j4xtr1x&hide_title=false&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4xtr1x&layout=compact&langs_count=7&theme=slateorange&card_width=250"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=%23FFB319&vCenter=true&multiline=true&height=35&lines=%2B+Tools)](https://git.io/typing-svg)
-
-<a href="https://github.com/volatilityfoundation/volatility3" target="_blank"><img height="75em" width="75em" src="./Volatility Icon.png" target="_blank"></a>
-&emsp;
-<a href="https://www.ollydbg.de" target="_blank"><img height="75em" width="75em" src="./OllyDbg Icon.png" target="_blank"></a>
-&emsp;
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiX2Y2YzvPzAhVMD7kGHUaQCzwQFnoECAkQAQ&url=http%3A%2F%2Fwww.rohitab.com%2Fapimonitor&usg=AOvVaw3NndRZs38QCrRd8c8yUln2" target="_blank"><img height="75em" width="75em" src="./API Monitor Icon.png" target="_blank"></a>
-&emsp;
-<a href="https://cuckoosandbox.org" target="_blank"><img height="75em" width="75em" src="./Cuckoo Icon.png" target="_blank"></a>
-&emsp;
-<a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img height="75em" width="75em" src="https://community.chocolatey.org/content/packageimages/die.3.01.png" target="_blank"></a>
 
 ##
   
